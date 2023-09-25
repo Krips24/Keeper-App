@@ -1,6 +1,6 @@
 # Google Keep Clone
 
-![Google Keeper Clone](demo.gif)
+![Google Keeper Clone](https://github.com/Krips24/Keeper-App/raw/master/src/images/screenshot.png)
 
 ## Table of Contents
 
